@@ -1,0 +1,39 @@
+{
+  "name": "is-subtitle",
+  "version": "1.0.0",
+  "description": "Check if a filepath is a subtitle file",
+  "main": "index.js",
+  "dependencies": {
+    "subtitle-extensions": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callmehiphop/is-subtitle.git"
+  },
+  "keywords": [
+    "ext",
+    "extensions",
+    "extension",
+    "file",
+    "path",
+    "check",
+    "is",
+    "subtitle",
+    "subtitles",
+    "subs",
+    "srt",
+    "vtt"
+  ],
+  "author": "Dave Gramlich <callmehiphop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callmehiphop/is-subtitle/issues"
+  },
+  "homepage": "https://github.com/callmehiphop/is-subtitle#readme"
+}
